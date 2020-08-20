@@ -1,0 +1,19 @@
+{
+  "name": "@xenterprises/marketing-nuxt-vuetify",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timmushen/platform-x-marketing-nuxt-vuetify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timmushen/platform-x-marketing-nuxt-vuetify/issues"
+  },
+  "homepage": "https://github.com/timmushen/platform-x-marketing-nuxt-vuetify#readme"
+}
